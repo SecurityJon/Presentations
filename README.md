@@ -1,2 +1,2 @@
 # Presentations
-Public Presentations of work
+A repo of presentation materials for presentations I've given.
